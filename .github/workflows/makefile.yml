@@ -18,7 +18,7 @@ jobs:
           kernel-url: https://github.com/Nanhumly-Staging/android_kernel_xiaomi_msm8998
           kernel-dir: msm-4.4
           kernel-branch: lineage-22.1
-          config: MSMCORTEX-perf_defconfig
+          config: msm8998_defconfig
           arch: arm64
           aosp-gcc: true
           aosp-clang: true
