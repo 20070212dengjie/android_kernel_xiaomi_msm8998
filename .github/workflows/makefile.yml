@@ -15,7 +15,7 @@ jobs:
     - name: Build Kernel
       uses: dabao1955/kernel_build_action@main
       with:
-          kernel-url: https://github.com/Nanhumly-Staging/android_kernel_xiaomi_msm8998
+          kernel-url: https://github.com/20070212dengjie/android_kernel_xiaomi_msm8998
           kernel-dir: msm-4.4
           kernel-branch: lineage-22.1
           config: msm8998_defconfig
